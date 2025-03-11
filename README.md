@@ -1,2 +1,2 @@
-# Dictionary
-I use pydroid using Python 
+Lab Activities here :3
+Complied activities
